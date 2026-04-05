@@ -1,0 +1,7 @@
+[build]
+publish = "."
+
+[[redirects]]
+from = "/"
+to = "/toutes_liaisons_3d_complet.html"
+status = 200
